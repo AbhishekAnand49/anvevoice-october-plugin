@@ -1,0 +1,25 @@
+fields:
+    embed_id:
+        label: Embed ID
+        comment: Get your Embed ID from app.anvevoice.app. Sign up free to create one.
+        type: text
+        required: true
+        placeholder: Paste your Embed ID here
+
+    position:
+        label: Widget Position
+        type: dropdown
+        default: bottom-right
+        options:
+            bottom-right: Bottom Right
+            bottom-left: Bottom Left
+            top-right: Top Right
+            top-left: Top Left
+
+    theme:
+        label: Theme
+        type: dropdown
+        default: light
+        options:
+            light: Light
+            dark: Dark
