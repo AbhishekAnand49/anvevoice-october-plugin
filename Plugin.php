@@ -1,4 +1,4 @@
-<?php namespace Anvevoice\Voicewidget;
+<?php namespace AnveVoice\Voicewidget;
 
 use System\Classes\PluginBase;
 
