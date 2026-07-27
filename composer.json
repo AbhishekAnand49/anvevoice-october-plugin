@@ -1,5 +1,5 @@
 {
-    "name": ""anvevoice/voicewidget-plugin"",
+    "name": "anvevoice/voicewidget-plugin",
     "description": "Add a real-time AI voice agent to your October CMS website in minutes. Supports 50+ languages.",
     "type": "october-plugin",
     "keywords": ["october", "cms", "plugin", "voice", "ai", "widget", "assistant"],
